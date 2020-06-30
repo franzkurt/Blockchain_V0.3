@@ -1,3 +1,5 @@
+// Apenas para salvar como se cria uma blockchain. A minha foi implementada no chatJS
+
 const SHA256 = require("crypto-js/sha256");
 
 class Block {
